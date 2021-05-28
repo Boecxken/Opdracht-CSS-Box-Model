@@ -1,0 +1,49 @@
+body {
+    color: rgb(77, 76, 76);
+    background-color: rgb(224, 225, 228);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    border: 3px solid white;
+    margin: 20px;
+    padding: 5px 20px 50px 20px;
+}
+
+main {
+    border: 3px solid black;
+    margin: 20px;
+    padding: 5px 20px;
+}
+
+footer {
+    border: 3px solid lightsteelblue;
+    margin: 0 auto;
+    width: 8%;
+    padding: 5px 20px;
+}
+
+#white-background {
+    background-color: white;
+    }
+
+.navigator ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigator li {
+    float: left;
+}
+
+.navigator li a {
+    display: block;
+    padding: 8px 10px;
+    background-color: white;
+}
+
+.navigator li a:hover{
+    background-color: lightsteelblue;
+}
+
